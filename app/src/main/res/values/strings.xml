@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AraApp</string>
+    <string name="lessons">Lessons</string>
+    <string name="test">Test</string>
+    <string name="notes">Notes</string>
+    <string name="daySchedule">Day schedule</string>
+    <string name="addNote">Add note</string>
+    <string name="updateNote">Update note</string>
+    <string name="addLesson">Add lesson</string>
+    <string name="noteTopic">Note topic</string>
+    <string name="noteText">Note text</string>
+    <string name="cancel">cancel</string>
+    <string name="updateLesson">Update lesson</string>
+    <string name="answerLesson">Answer lesson</string>
+    <string name="yourQuestion">Your question</string>
+    <string name="yourAnswer">Your answer</string>
+    <string name="yourNote">Your note</string>
+    <string name="updateQuestion">Update question</string>
+    <string name="updateAnswer">Update answer</string>
+</resources>
